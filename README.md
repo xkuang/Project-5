@@ -5,7 +5,7 @@
 
 You're working as a data scientist with a research firm. You're firm is bidding on a big project that will involve working with thousands or possible tens of thousands of features. You know it will be impossible to use conventional feature selection techniques. You propose that a way to win the contract is to demonstrate a capacity to identify relevant features using machine learning. Your boss says, "Great idea. Write it up." You figure that working with the Madelon synthetic dataset is an excellent way to demonstrate your abilities.
 
-A data engineer colleague sets up a remote PostgreSQL database for you to work with. You can connect to that database at joshuacook.me:5432 with user dsi and password "correct horse battery staple". You can connect via command line using
+A data engineer colleague sets up a remote PostgreSQL database for you to work with. You can connect to that database at " " with user dsi and password " ". You can connect via command line using
 
 $ psql -h joshuacook.me -p 5432 -d dsi -U dsi_student
 and entering the password when prompted
